@@ -1,0 +1,19 @@
+body{
+   background-color: white;
+   padding: 20px;
+}
+
+.container{
+   background-color: rgb(224, 221, 221);
+   min-height: 600px;
+}
+
+.centre{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+form{
+   font-size: 15px;
+}
